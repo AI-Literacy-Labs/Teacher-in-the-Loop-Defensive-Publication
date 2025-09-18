@@ -1,35 +1,21 @@
 cff-version: 1.2.0
-<<<<<<< HEAD
-title: "Teacher in the Loop — Prior-Art Design/Spec (Defensive Publication)"
+title: "Teacher in the Loop — Prior-Art Design/Spec (Defensive Publication), v3.1"
 message: "If you use this disclosure, please cite it."
-type: software
+type: "publication"
 authors:
   - family-names: "Gilly"
     given-names: "Travis"
-    orcid: "https://orcid.org/0000-0000-0000-0000"   # optional
+    orcid: "https://orcid.org/0009-0007-2954-6313"
 abstract: >
-  Defensive publication describing TITL’s integrity-resistance, accommodations,
-  role-scoped transparency, and non-disclosive detection. Design/spec only.
-license: "CC-BY-NC-ND-4.0"
-version: "v3"
+  Defensive prior-art disclosure describing Teacher in the Loop (TITL), an AI
+  tutoring architecture emphasizing pedagogical fidelity, accommodation-aware
+  interaction, supervisory transparency, and integrity-resistance. This record
+  documents design, algorithms, schemas, and API specifications as a prior-art
+  disclosure. See LICENSE and PATENT_NOTICE in the repository for reuse and
+  patent statements.
+doi: "10.5281/zenodo.17156097"
+version: "v3.1"
 date-released: "2025-09-18"
+license: "Teacher in the Loop - Restrictive Copyright License (2025)"
+license_url: "https://raw.githubusercontent.com/AI-Literacy-Labs/Teacher-in-the-Loop-Defensive-Publication/main/LICENSE"
 repository-code: "https://github.com/AI-Literacy-Labs/Teacher-in-the-Loop-Defensive-Publication"
-identifiers: []   # fill after Zenodo
-preferred-citation:
-  type: article
-  title: "Teacher in the Loop — Prior-Art Design/Spec"
-  authors:
-    - family-names: "Gilly"
-      given-names: "Travis"
-  year: 2025
-  notes: "Defensive publication (prior-art disclosure)."
-=======
-title: "Teacher in the Loop — Prior-Art Design/Spec"
-authors:
-  - family-names: "Gilly"
-    given-names: "Travis"
-version: "v3"
-doi: "<your_zenodo_doi_here>"
-date-released: "2025-09-18"
-license: "CC-BY-NC-ND-4.0"
->>>>>>> b70c352 (Initial defensive publication: v3, SHA256 4B2D7118378071B17C48261041110900198507BDD2F6A059FBA7A9A4E9B6B0AC)
