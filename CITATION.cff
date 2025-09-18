@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Teacher in the Loop — Prior-Art Design/Spec (Defensive Publication)"
+message: "If you use this disclosure, please cite it."
+type: software
+authors:
+  - family-names: "Gilly"
+    given-names: "Travis"
+    orcid: "https://orcid.org/0000-0000-0000-0000"   # optional
+abstract: >
+  Defensive publication describing TITL’s integrity-resistance, accommodations,
+  role-scoped transparency, and non-disclosive detection. Design/spec only.
+license: "CC-BY-NC-ND-4.0"
+version: "v3"
+date-released: "2025-09-18"
+repository-code: "https://github.com/AI-Literacy-Labs/Teacher-in-the-Loop-Defensive-Publication"
+identifiers: []   # fill after Zenodo
+preferred-citation:
+  type: article
+  title: "Teacher in the Loop — Prior-Art Design/Spec"
+  authors:
+    - family-names: "Gilly"
+      given-names: "Travis"
+  year: 2025
+  notes: "Defensive publication (prior-art disclosure)."
