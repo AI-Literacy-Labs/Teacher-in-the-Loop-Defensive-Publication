@@ -26,10 +26,10 @@ preferred-citation:
 =======
 title: "Teacher in the Loop — Prior-Art Design/Spec"
 authors:
-  - family-names: "<Your Last Name>"
-    given-names: "<Your First Name>"
+  - family-names: "Gilly"
+    given-names: "Travis"
 version: "v3"
 doi: "<your_zenodo_doi_here>"
 date-released: "2025-09-18"
 license: "CC-BY-NC-ND-4.0"
->>>>>>> b70c352 (Initial defensive publication: v3, SHA256 C71E1934EBAD9A3FDFB5CEF1F643DDE9CEAADB6CA6D8A952007F6B731A258A78)
+>>>>>>> b70c352 (Initial defensive publication: v3, SHA256 4B2D7118378071B17C48261041110900198507BDD2F6A059FBA7A9A4E9B6B0AC)
